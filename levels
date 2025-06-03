@@ -1,0 +1,4764 @@
+{
+  "levels": [
+    {
+      "levelIndex": 1,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 2,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 3,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 4,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 5,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 6,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 7,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            0,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 8,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 9,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            1,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 10,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            1,
+            0,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 11,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 12,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 13,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 14,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 15,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 16,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 17,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 18,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            2,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 19,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            1,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 20,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 21,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 22,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 23,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 24,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 25,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 26,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            2,
+            0,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 27,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            2,
+            1,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 28,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            2,
+            0,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 29,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            2,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 30,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            0,
+            0,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 31,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 32,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 33,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 34,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 35,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            3,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            3,
+            2,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 36,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 37,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 38,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0,
+            1,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 39,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            3,
+            0,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            3,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 40,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 41,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 42,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            3,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 43,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 44,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            3,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 45,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3,
+            1,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 46,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 47,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            3,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 48,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 49,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            0,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 50,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            0,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            3,
+            0,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 51,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 52,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            3,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 53,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            0,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 54,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 55,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            1,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            3,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            2,
+            0,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 56,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 57,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            2,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            1,
+            0,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 58,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            3,
+            0,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 59,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            0,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2,
+            3,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 60,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 61,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            2,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 62,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 63,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            1,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 64,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 65,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            2,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            3,
+            2,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 66,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 67,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0,
+            3,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 68,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 69,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            0,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            3,
+            0,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 70,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            3,
+            2
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 71,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 72,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            3,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            1,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 73,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0,
+            1,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 74,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 75,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            1,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            3,
+            1,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 76,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3,
+            1
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 77,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2,
+            1,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 78,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            1,
+            3,
+            0
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 79,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            3,
+            0,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 80,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            3
+          ]
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 81,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 82,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 83,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 84,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 85,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 86,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 87,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 88,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            3,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 89,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 90,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 91,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0,
+            3,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 92,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 93,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 94,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 95,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 96,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 97,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 98,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 99,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 100,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 101,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 102,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 103,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 104,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            3,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 105,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 106,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 107,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            0,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 108,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 109,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 110,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            3,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 111,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 112,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 113,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 114,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 115,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 116,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 117,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 118,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 119,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            3,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 120,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 121,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 122,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            3,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            3,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 123,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 124,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            1,
+            3,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 125,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            0,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 126,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    },
+    {
+      "levelIndex": 127,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            1,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 1
+    },
+    {
+      "levelIndex": 128,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            0,
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            2,
+            0,
+            3,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 0
+    },
+    {
+      "levelIndex": 129,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 2
+    },
+    {
+      "levelIndex": 130,
+      "bottles": [
+        {
+          "ballMatIndices": [
+            0,
+            2,
+            3,
+            1
+          ]
+        },
+        {
+          "ballMatIndices": [
+            1,
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": [
+            2,
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "ballMatIndices": [
+            3,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "ballMatIndices": []
+        }
+      ],
+      "firstDropBallMatIndex": 3
+    }
+  ]
+}
